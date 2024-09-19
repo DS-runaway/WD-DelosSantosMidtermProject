@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bgcolor {
+    background-color: burlywood;
+}
+
+.paragraph-text {
+    font-family: "Titillium Web", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Titillium Web", sans-serif;
+}
