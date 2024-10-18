@@ -54,6 +54,7 @@ p, h1, h2, h3, h4, h5, h6 {
         height: 700px;
         width:40%;
         text-align: center;
+        padding: 10%;
         margin-left: 20px;
         margin-right: 20px;
         background-color: rgb(255, 255, 255);
