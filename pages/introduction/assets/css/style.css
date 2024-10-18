@@ -44,7 +44,6 @@ p, h1, h2, h3, h4, h5, h6 {
                 text-decoration: none;
                 background-color: rgb(160, 66, 28);
          }
-
             .btn:hover {
                 font-family: "Titillium Web", sans-serif;
                 text-decoration: none;
@@ -52,17 +51,21 @@ p, h1, h2, h3, h4, h5, h6 {
         }
     }
     .mid {
-        height: 700px;
-        width:40%;
+        height: 100%;
+        width: 60%;
         text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
         margin-left: 20px;
         margin-right: 20px;
         background-color: rgb(255, 255, 255);
     }
     .right {
-        height: 700px;
-        width: 40%;
+        height: 100%;
+        width: 20%;
         text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
         margin-right: 60px;
         background-color: rgb(255, 255, 255);
     }
